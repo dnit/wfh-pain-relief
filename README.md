@@ -1,2 +1,2 @@
 # wfh-pain-relief
-Some wfh daily pain reliefs
+Some daily pain reliefs
